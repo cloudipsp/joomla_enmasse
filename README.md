@@ -12,4 +12,4 @@
 ![Скриншот][1]
 ----
 
-[1]: https://raw.githubusercontent.com/cloudipsp/wordpress/master/joomla_enmasse/Screenshot_1.png
+[1]: https://raw.githubusercontent.com/cloudipsp/joomla_enmasse/master/Screenshot_1.png
