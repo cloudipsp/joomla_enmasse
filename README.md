@@ -1,13 +1,13 @@
-Модуль для Joomla + enmasse_6.2
+Module for Joomla + enmasse_6.2
 =====
 
-Установка
+Installation
 ----
-1. Скопировать содержимое архива в главную директорию сайта (предварительно сохранив оригинал!!!!).
+1. Copy paste to plug-in directory (Save the original!).
 
-2. http://joomla/administrator/index.php?option=com_enmasse&controller=payGty Добавить новый метод оплаты, пример настроек приведен на скриншоте (см. вложения).
+2. http://joomla/administrator/index.php?option=com_enmasse&controller=payGty Add new payment method (look at screen blow).
  
-3. Сохранить настройки.
+3. Save settings.
 
 ![Скриншот][1]
 ----
